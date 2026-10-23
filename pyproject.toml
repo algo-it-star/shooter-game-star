@@ -1,0 +1,11 @@
+[project]
+name = "m5l5-m5l8-shooter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pygame>=2.6.1",
+    "pyinstall>=0.1.4",
+    "pyinstaller>=6.22.3",
+]
